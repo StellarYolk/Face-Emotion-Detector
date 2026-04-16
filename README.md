@@ -4,7 +4,9 @@ Real-time facial emotion recognition using a CNN trained from scratch on FER2013
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue) ![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-red) ![OpenCV](https://img.shields.io/badge/OpenCV-4.x-green) ![MediaPipe](https://img.shields.io/badge/MediaPipe-0.9.3-orange)
 
-https://github.com/user-attachments/assets/a244b0e4-3698-492f-ac96-badee2521adb
+
+
+https://github.com/user-attachments/assets/e3c33ac4-9403-4a2a-b559-ff0ec112c3ac
 
 
 
